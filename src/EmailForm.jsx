@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
-import  {uploadFileToS3}  from '../helpers/uploadFileS3.JS';
+import  {uploadFileToS3}  from '../helpers/uploadFileS3.js';
 import { sendEmail } from '../helpers/Pinpoint';
 
 
